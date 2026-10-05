@@ -1,0 +1,8 @@
+{
+  "name": "vaultify-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "ytdl-core": "^4.11.5"
+  }
+}
